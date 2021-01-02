@@ -1,2 +1,2 @@
 This is first update of a.txt
-This is second update of a.txt from feature branch
+This is second update of a.txt from master
