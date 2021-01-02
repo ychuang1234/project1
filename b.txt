@@ -1,1 +1,1 @@
-This is the first update of b.txt
+This is the second update in b.txt
