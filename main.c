@@ -6,5 +6,6 @@ int main(){
 	printf("This is a modification!\n");
 	printf("This is the second modification and conflicting happened!\n");
 	printf("This is the third modification from branch feature\n");
+	printf("Update from windows\n");
 	return 0;
 }
